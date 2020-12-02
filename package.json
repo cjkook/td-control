@@ -1,0 +1,23 @@
+{
+  "name": "td-control",
+  "description": "Full stack web app for controlling local TouchDesigner sketch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjkook/td-control.git"
+  },
+  "author": "cjko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cjkook/td-control/issues"
+  },
+  "homepage": "https://github.com/cjkook/td-control#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-osc": "^5.2.1"
+  }
+}
